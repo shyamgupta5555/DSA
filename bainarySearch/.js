@@ -28,4 +28,3 @@ while(low < high){
 };
 
 console.log(findNumber(num))
-
